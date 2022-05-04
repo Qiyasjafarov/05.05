@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  .mydiv {
+    background-color:coral;
+    border:3px solid black;
+    height: 150px;
+  }
+  .mydiv.big{
+    height: 300px;
+  }
